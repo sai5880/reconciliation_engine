@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pandas
-python-dateutil
-rapidfuzz
-pydantic
-python-multipart
-numpy
-pytest
